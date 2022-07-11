@@ -1,37 +1,36 @@
 # Baekjoon
 
-- 정답률 40% 이상인 것들만 풀이
+- 난이도 BRONZE1 ~ GOLD1 풀이
 - 하루에 2문제씩 풀이 (추후 조정 가능)
 
-- [ ] 재귀
-  - [ ] 팩토리얼
-  - [ ] 피보나치 수
-  - [ ] 별 찍기
-  - [ ] 하노이 탑 이동 순서
-- [ ] 브루트 포스
-- [ ] 정렬
-- [ ] 집합과 맵
-- [ ] 기하 1
-- [ ] 정수론 및 조합론
-- [ ] 백트래킹
-- [ ] 동적 계획법1
-- [ ] 누적 합
-- [ ] 그리디 알고리즘
-- [ ] 스택
-- [ ] 큐, 덱
-- [ ] 분할 정복
-- [ ] 이분 탐색
-- [ ] 우선순위 큐
-- [ ] 동적 계획법2
-- [ ] 그래프와 순회
-- [ ] 최단 경로
-- [ ] 투 포인터
-- [ ] 동적 계획법과 최단거리 역추적
-- [ ] 트리
-- [ ] 유니온 파인드
-- [ ] 최소 신장 트리
-- [ ] 트리에서의 동적 계획법
-- [ ] 기하 2
-- [ ] 동적 계획법3
-- [ ] 문자열 알고리즘 1
-- [ ] 위상 정렬
+- [ ] [재귀](https://www.acmicpc.net/step/19)
+  - [ ] [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
+  - [ ] [별 찍기](https://www.acmicpc.net/problem/2447)
+  - [ ] [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
+- [ ] [브루트 포스](https://www.acmicpc.net/step/22)
+- [ ] [정렬](https://www.acmicpc.net/step/9)
+- [ ] [집합과 맵](https://www.acmicpc.net/step/49)
+- [ ] [기하 1](https://www.acmicpc.net/step/50)
+- [ ] [정수론 및 조합론](https://www.acmicpc.net/step/18)
+- [ ] [백트래킹](https://www.acmicpc.net/step/34)
+- [ ] [동적 계획법 1](https://www.acmicpc.net/step/16)
+- [ ] [누적 합](https://www.acmicpc.net/step/48)
+- [ ] [그리디 알고리즘](https://www.acmicpc.net/step/33)
+- [ ] [스택](https://www.acmicpc.net/step/11)
+- [ ] [큐, 덱](https://www.acmicpc.net/step/12)
+- [ ] [분할 정복](https://www.acmicpc.net/step/20)
+- [ ] [이분 탐색](https://www.acmicpc.net/step/29)
+- [ ] [우선순위 큐](https://www.acmicpc.net/step/13)
+- [ ] [동적 계획법 2](https://www.acmicpc.net/step/17)
+- [ ] [그래프와 순회](https://www.acmicpc.net/step/24)
+- [ ] [최단 경로](https://www.acmicpc.net/step/26)
+- [ ] [투 포인터](https://www.acmicpc.net/step/59)
+- [ ] [동적 계획법과 최단거리 역추적](https://www.acmicpc.net/step/41)
+- [ ] [트리](https://www.acmicpc.net/step/23)
+- [ ] [유니온 파인드](https://www.acmicpc.net/step/14)
+- [ ] [최소 신장 트리](https://www.acmicpc.net/step/15)
+- [ ] [트리에서의 동적 계획법](https://www.acmicpc.net/step/21)
+- [ ] [기하 2](https://www.acmicpc.net/step/45)
+- [ ] [동적 계획법 3](https://www.acmicpc.net/step/31)
+- [ ] [문자열 알고리즘 1](https://www.acmicpc.net/step/27)
+- [ ] [위상 정렬](https://www.acmicpc.net/step/25)

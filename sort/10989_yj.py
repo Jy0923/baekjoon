@@ -1,15 +1,12 @@
-# 단순 python sort를 이용하면 메모리 초과 발생
+# 단순 python sort를 이용하면 메모리 초과 발생 -> 카운팅 정렬 구현 (정렬 알고리즘 정리해볼 것.)
 import sys
-from collections import Counter
 
 n = int(input(""))
-arr =  list(int(sys.stdin.readline()) for _ in range(n))
-counts = Counter(arr)
+counts = [0 for _ in range(10001)] # 수의 범위가 작은 걸 고려해줬어야 했음.
 
+for _ in range(n):
+    counts[int(sys.stdin.readline())] += 1
 
-arr_set = set(arr)
-
-for elem in arr_set:
-    for _ in range(counts[elem]):
-        print(elem)
-
+for i in range(len(counts)):
+    for _ in range(counts[i]):
+        print(i)

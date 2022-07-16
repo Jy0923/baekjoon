@@ -3,7 +3,14 @@
 - 난이도 BRONZE1 ~ GOLD1 풀이
 - 하루에 2문제씩 풀이 (추후 조정 가능)
 
-
+- [X] [재귀](https://www.acmicpc.net/step/19)
+  - [X] [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
+  - [X] [별 찍기](https://www.acmicpc.net/problem/2447)
+  - [X] [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
+- [X] [브루트 포스](https://www.acmicpc.net/step/22)
+  - [X] [덩치](https://www.acmicpc.net/problem/7568)
+  - [X] [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+  - [X] [영화감독 숌](https://www.acmicpc.net/problem/1436)
 - [ ] [정렬](https://www.acmicpc.net/step/9)
   - [X] [수 정렬하기 2](https://www.acmicpc.net/problem/2751)
   - [X] [수 정렬하기 3](https://www.acmicpc.net/problem/10989)

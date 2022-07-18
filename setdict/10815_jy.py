@@ -1,0 +1,5 @@
+m = int(input())
+cards = set(map(int, input().split()))
+n = int(input())
+checks = list(map(int, input().split()))
+print(*[1 if i in cards else 0 for i in checks])
